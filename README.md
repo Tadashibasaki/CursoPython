@@ -1,1 +1,1 @@
-Respostas das questões referente ao curso de python
+Respostas das questões referentes ao curso de python
